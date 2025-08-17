@@ -19,31 +19,30 @@ cd calories-burnt-predictor
 
 # Run the Streamlit app
 streamlit run app.py
+```
 
-
-
+---
 ## 🛠 Tech Stack
-Frontend: Streamlit
-Backend: Python, Pandas
-Machine Learning Model: XGBoost
-Deployment: Localhost / Cloud Services (Optional)
-🎯 How to Use
-Select your gender.
-Enter your height (cm), weight (kg), and age.
-Input your exercise duration (min), heart rate (BPM), and body temperature (°C).
-Click on the Predict Probability button to get the estimated calories burnt.
-📁 Project Structure
-📂 calories-burnt-predictor
-│-- 📄 app.py             # Streamlit App Code
-│-- 📄 model.pkl          # Pre-trained Machine Learning Model
-│-- 📄 README.md          # Project Documentation
-🤖 Machine Learning Model
+- **Frontend:** Streamlit
+- **Backend:** Python, Pandas
+- **Machine Learning Model:** XGBoost
+- **Deployment:** Localhost / Cloud Services (Optional)
+
+---
+## 🎯 How to Use
+- Select your gender.
+- Enter your height (cm), weight (kg), and age.
+- Input your exercise duration (min), heart rate (BPM), and body temperature (°C).
+- Click on the Predict Probability button to get the estimated calories burned.
+
+---
+## 🤖 Machine Learning Model
 The app uses an XGBoost Regressor trained on a dataset containing physiological data. Features used:
 
-Gender (One-Hot Encoded)
-Age
-Height (cm)
-Weight (kg)
-Exercise Duration (min)
-Heart Rate (BPM)
-Body Temperature (°C)
+- Gender (One-Hot Encoded)
+- Age
+- Height (cm)
+- Weight (kg)
+- Exercise Duration (min)
+- Heart Rate (BPM)
+- Body Temperature (°C)
