@@ -9,9 +9,10 @@ It is a machine learning-powered web app  built using Streamlit that predicts th
 - 🔹 Responsive Design for smooth user experience.
 
 ---
-## 📦 Installation
+## 📥 Installation
 To set up and run the app locally, follow these steps:
-  ```bash
+
+```bash
 # Clone the repository
 git clone https://github.com/your-repo/calories-burnt-predictor.git
 cd calories-burnt-predictor
