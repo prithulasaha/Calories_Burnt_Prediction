@@ -3,10 +3,10 @@ It is a machine learning-powered web app  built using Streamlit that predicts th
 
 ---
 ## ✨ Features
--🔹 User-friendly UI powered by Streamlit.
--🔹 Predicts calories burnt based on age, gender, height, weight, heart rate, body temperature, and exercise duration.
--🔹 Machine Learning model trained using XGBoost for accurate predictions.
--🔹 Responsive Design for smooth user experience.
+- 🔹 User-friendly UI powered by Streamlit.
+- 🔹 Predicts calories burnt based on age, gender, height, weight, heart rate, body temperature, and exercise duration.
+- 🔹 Machine Learning model trained using XGBoost for accurate predictions.
+- 🔹 Responsive Design for smooth user experience.
 
 ---
 ## 📦 Installation
