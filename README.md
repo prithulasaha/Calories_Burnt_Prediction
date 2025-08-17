@@ -13,15 +13,15 @@ It is a machine learning-powered web app  built using Streamlit that predicts th
 To set up and run the app locally, follow these steps:
 
 ```bash
-  # Clone the repository
-  git clone https://github.com/your-repo/calories-burnt-predictor.git
-  cd calories-burnt-predictor
-  
-  # Run the Streamlit app
-  streamlit run app.py
+# Clone the repository
+git clone https://github.com/your-repo/calories-burnt-predictor.git
+cd calories-burnt-predictor
+
+# Run the Streamlit app
+streamlit run app.py
 
 
----
+
 ## 🛠 Tech Stack
 Frontend: Streamlit
 Backend: Python, Pandas
